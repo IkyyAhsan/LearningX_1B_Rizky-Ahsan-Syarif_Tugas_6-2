@@ -1,0 +1,22 @@
+name: homework_6_2
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.15.10
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.27.2
+  flutter:
+    sdk: flutter
+  get: 4.6.6
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

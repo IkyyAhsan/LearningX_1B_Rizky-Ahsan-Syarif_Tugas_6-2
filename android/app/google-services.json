@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638635083259",
+    "project_id": "lx-food-recipe-last",
+    "storage_bucket": "lx-food-recipe-last.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638635083259:android:f43a07043f5dc8ece8b75e",
+        "android_client_info": {
+          "package_name": "com.example.homework_6_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C-8sOBraKPicjDqrI4oAI_zwZc0wzZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
